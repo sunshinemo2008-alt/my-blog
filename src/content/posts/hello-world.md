@@ -1,7 +1,7 @@
 ---
 title: Hello World
 published: 2026-09-15
-description: '这是我的第一篇博客文章。'
+description: '这是我的第一篇博客文章，欢迎你这么好看还来找我玩哈哈哈。'
 tags: [test]
 ---
 
